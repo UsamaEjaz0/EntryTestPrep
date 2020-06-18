@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Nust test prep</string>
+    <string name="header_name">Usama</string>
+    <string name="ins">-Registration Fee: RS.3000/-\n
+-Submit fee voucher of RS.3000/- in any Online HBL branch of Pakistan.\n
+    ==> Register yourself on NUST Official Website:\n
+http://ugadmissions.nust.edu.pk/\n
+==> Sign up on NUST website with your email address and personal password.\n
+    ==> NUST Aggregate Formula:\n
+15% of Fsc marks + 10% of Matric marks + 75% of NET marks\n
+______________________________________________\n
+==> Total NET Marks: 200\n
+==> Total NET MCQ: 200\n
+==> No Negative Marking\n
+==> Test Time: 180 Minutes (3 Hrs)\n
+==> Division of marks among subjects:\n
+1) Mathematics: 80 MCQ\n
+2) Physics: 60 MCQ\n
+3) Chemistry: 30 MCQ\n
+4) English: 20 MCQ\n
+5) IQ Portion: 10 MCQ\n
+    >>>>> Overview of NET paper\n
+==> For IQ Portion, MCQs are related to:\n
+1) Box Reasoning\n
+2) Direction Finding\n
+3) Coding/Decoding\n
+4) Sequence\n
+5) Pick out Odd One\n
+==> For English, MCQs are related to:\n
+1) Synonyms\n
+2) Antonyms\n
+3) Comprehension\n
+4) Guess the correct of spelling of word\n
+5) Analogy\n
+6) Grammar portion\n
+==> For Physics, MCQs are from the textbook, conceptual and reasoning questions\n
+==> For Chemistry, MCQs are utterly from textbook lines\n
+==> For Mathematics, MCQs are from the textbook concepts and formulas\n
+_____________________________________________\n
+#Note:\n
+-Repeater will mention his/her FSC marks as whole.\n
+- FSc Pre Medical Candidates with Additional maths will write their same marks as obtained in FSC pre Med and would have to update their marks on securing admission.\n
+_____________________________________________\n
+#Caution:\n
+NUST neither conducts entry test related preparatory activities itself nor provides material in electronic or printed format for guidance of applicants. Nor is any such activity sponsored by NUST.\n
+______________________________________________\n
+==> Salients of NET:\n
+1) Candidates can appear in entry test more than once with the best score considered for the admission. However, in any one series only one attempt is allowed for a particular discipline.\n
+2) NET is compiled from text books prescribed for HSSC courses. Candidates preparing for NET are advised to consult all relevant text books of various boards of education.\n
+3) NET is conducted at three locations, that is Islamabad (NUST Campus), Karachi and Quetta.\n
+4) At Islamabad the Test is conducted in computer-based format. In Karachi and Quetta it is in paper-based format conducted in April and July.\n
+--------------------------------------------------------------------------</string>
+    <string name="aboutUs">This app was develeoped by mutual collaboration of a Nustian and a Fastian. Both aimed to help the future generation by providing them a way to pave a path for their future.\n
+        Kindly rate us on play store and give us more suggestions regarding the app.
+    </string>
+    <string name="ppolicy">Privacy Policy
+HelpDesk built the NUST Entry Test Preparation app as a Free app. This SERVICE is provided by HelpDesk at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at NUST Entry Test Preparation unless otherwise defined in this Privacy Policy.
+
+Information Collection and Use:
+
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+
+The app does use third party services that may collect information used to identify you.
+
+Link to privacy policy of third party service providers used by the app
+
+Google Play Services:
+AdMob
+Log Data
+
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+Cookies:
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+Service Providers:
+
+I may employ third-party companies and individuals due to the following reasons:
+
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+Security:
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+
+Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+Contact Us
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me by the info provided in about us section.</string>
+    <string name="messageUs">You can contact us via our email address provided below and can have a talk with us at anytime.\n
+   </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

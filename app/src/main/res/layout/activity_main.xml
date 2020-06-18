@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:weightSum="10"
+    android:background="@drawable/bg"
+    android:alpha="0.8"
+    android:orientation="vertical"
+    tools:context=".WelcomeActivity">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2.2">
+
+    </View>
+    <TextView
+        android:fontFamily="@font/raleway"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:text="Welcome!"
+        android:textSize="50sp"
+        android:textColor="#FFF"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"/>
+
+
+    <TextView
+        android:fontFamily="@font/raleway"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Please enter your name"
+        android:textSize="30sp"
+        android:textColor="#FFF"
+        android:layout_gravity="center"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:weightSum="5">
+        <View
+            android:layout_width="0dp"
+
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"/>
+    <EditText
+        android:id="@+id/namee"
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/raleway"
+        android:hint="    Your name here ...."
+        android:background="#FFF"/>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+
+        android:layout_height="0dp"
+        android:layout_weight="1.5"/>
+    <Button
+        android:fontFamily="@font/raleway"
+        android:id="@+id/b1"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Continue"
+        android:textSize="20sp"
+
+        android:textColor="#FFF"
+        />
+
+
+
+</LinearLayout>

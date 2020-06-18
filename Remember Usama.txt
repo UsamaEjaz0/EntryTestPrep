@@ -1,0 +1,4 @@
+Banner ad unit ids in question screen and menu activity +adjust code (done)
+app unit id in meta data and menu activity code.(done)
+interstitial ad id in question screen and ajdust code twice
+rewarded video app unit id twice
